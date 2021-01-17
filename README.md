@@ -1,7 +1,7 @@
 
 # About Me
 
-- Greetings !
+Greetings !
 
 My name is Inácio Ribeiro, I was born in 1998 and I live in São Paulo - Brazil
 
